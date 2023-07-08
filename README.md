@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi, I'm Erick 👋🏾👨🏾‍💻
 
-<!--
-**eruigu/eruigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/60236247/183222668-bdbd4a4b-a9de-4b58-9220-069d9b284f13.png)
 
-Here are some ideas to get you started:
+**`Digital Craftsman (Engineer/Innovator/Technologist)`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+# About Me 🤠💪🏾
+I'm a full-stack engineer with a passion for creating quality software to solve problems and generally just for fun. We live in a time where tech is expanding in every direction exponentially and it's exciting! Well, until chatGPT becomes sentient and erases all humans (see Skynet from Terminator or iRobot 😵). I've had a passion for software from a young age whether it was rooting Andriods to allow for custom UIs, to being the token "IT Specialist" for all my family tech needs (mostly wifi configs/random appliances). I really grasped the possibilities of software during my time in college, okstate (Go Pokes!), where I got to learn and work with great people. In this great sea of tech, I'm thrilled to be able to learn/build impactful software. I thrive in novel, challenging, and innovative areas. If you have any cool projects or opportunities please reach out and let's build something great together!
+
+<p>
+  <a href="https://www.linkedin.com/in/erick-ruigu-ba4b50128">
+    <img alt="LinkedIn profile" title="Subscribe to my LinkedIn channel"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+# Languages and Tools 🛠️🧰
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<br />
