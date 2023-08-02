@@ -5,7 +5,7 @@
 **`Digital Craftsman (Engineer/Innovator/Technologist)`**
 
 ---
-# About Me 🤠💪🏾
+# About Me 😎💪🏾
 I'm a full-stack engineer with a passion for creating quality software to solve problems and generally just for fun. We live in a time where tech is expanding in every direction exponentially and it's exciting! Well, until chatGPT becomes sentient and erases all humans (see Skynet from Terminator or iRobot 😵). I've had a passion for software from a young age whether it was rooting Andriods to allow for custom UIs, to being the token "IT Specialist" for all my family tech needs (mostly wifi configs/random appliances). I really grasped the possibilities of software during my time in college, okstate (Go Pokes!), where I got to learn and work with great people. In this great sea of tech, I'm thrilled to be able to learn/build impactful software. I thrive in novel, challenging, and innovative areas. If you have any cool projects or opportunities please reach out and let's build something great together!
 
 
@@ -54,3 +54,11 @@ I'm a full-stack engineer with a passion for creating quality software to solve 
 />
 
 <br />
+
+---
+# Github Stats 🌟📊
+<p align="center">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eruigu&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact" />
+</p>
+
+
