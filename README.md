@@ -34,8 +34,8 @@ I really grasped the possibilities of software during my time in college, okstat
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" 
 />
 </div>
-<div title="Tailwind">
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" 
+<div title="TailwindCSS">
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
 />
 </div>
