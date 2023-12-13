@@ -21,41 +21,69 @@ I really grasped the possibilities of software during my time in college, okstat
 
 ---
 # Languages and Tools 🧰
+<div title="TypeScript">
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
 />
+</div>
+<div title="JavaScript">
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" 
 />
+</div>
+<div title="HTML">
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" 
 />
+</div>
+<div title="Tailwind">
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
 />
+</div>
+<div title="Python">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" 
 />
+</div>
+<div title="React">
 <img align="left" alt="React" width="30px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
 />
-<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" 
+</div>
+<div title="NextJS">
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" 
   src="https://github.com/eruigu/eruigu/blob/main/nextjs-icon-svgrepo-com.svg" 
 />
+</div>
+<div title="NodeJS">
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
 />
+</div>
+<div title="Vim">
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" 
 />
+</div>
+<div title="Git">
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
+</div>
+<div title="Linux">
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
 />
+</div>
+<div title="AWS">
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" 
 />
+</div>
+<div title="Docker">
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" 
 />
+</div>
+<div title="PostgreSQL">
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" 
 />
+</div>
 
 <br />
 
