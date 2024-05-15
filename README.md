@@ -36,7 +36,7 @@ I really grasped the possibilities of software during my time in college, okstat
 </div>
 <div title="TailwindCSS">
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 </div>
 <div title="Python">
@@ -73,7 +73,7 @@ I really grasped the possibilities of software during my time in college, okstat
 />
 </div>
 <div title="AWS">
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" 
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
 </div>
 <div title="Docker">
