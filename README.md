@@ -2,13 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/60236247/183222668-bdbd4a4b-a9de-4b58-9220-069d9b284f13.png)
 
-**`Digital Craftsman (Engineer/Innovator/Technologist)`**
+**`Digital Craftsman (Engineer/Technologist/Enthusiast)`**
 
 ---
 # About Me 😎
 I'm a full-stack engineer with a passion for creating quality software to solve problems and generally just for fun. We live in a time where tech is expanding in every direction exponentially and it's exciting! Well, until chatGPT reaches AGI and erases all humans (see Terminator or iRobot 😵). 
 
-I've had a passion for software from a young age; Whether it was rooting Andriods to customize the os, to being the token "IT Specialist" for all my family tech needs (mostly wifi configs/random appliances). 
+I've had a passion for software from a young age; Whether it was rooting Andriods to customize the os, to being the token "IT Specialist" for all my family tech needs (mostly wifi configs || random devices). 
 
 I really grasped the possibilities of software during my time in college, okstate (Go Pokes!), where I had the opportunity to learn and work with great people. In this great sea of tech, I'm thrilled to be able to learn/build impactful software. I thrive in novel, challenging, and innovative areas. If you have any cool projects or opportunities please reach out and let's build something great together!
 
