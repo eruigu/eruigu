@@ -95,9 +95,9 @@ I really grasped the possibilities of software during my time in college, okstat
 
 ---
 # Github Stats 📊
-<p align="center">
+<div align="center">
     <img width="75%" src="./profile/top-langs.svg" />
-</p>
+</div>
 
 
 
