@@ -21,77 +21,38 @@ I really grasped the possibilities of software during my time in college, okstat
 
 ---
 # Languages and Tools 🧰
-<div align="center">
-<div title="TypeScript">
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-/>
-</div>
-<div title="JavaScript">
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" 
-/>
-</div>
-<div title="JavaScript">
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
-/>
-</div>
-<div title="HTML">
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" 
-/>
-</div>
-<div title="TailwindCSS">
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-</div>
-<div title="Python">
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" 
-/>
-</div>
-<div title="React">
-<img align="left" alt="React" width="30px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-/>
-</div>
-<div title="NextJS">
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" 
-  src="https://github.com/eruigu/eruigu/blob/main/nextjs-icon-svgrepo-com.svg" 
-/>
-</div>
-<div title="NodeJS">
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-/>
-</div>
-<div title="Vim">
-<img align="left" alt="Vim" width="30px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" 
-/>
-</div>
-<div title="Git">
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-</div>
-<div title="Linux">
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-/>
-</div>
-<div title="AWS">
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
-/>
-</div>
-<div title="Docker">
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" 
-/>
-</div>
-<div title="PostgreSQL">
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
-</div>
-</div>
 
-<br />
+<p align="center">
+  <img alt="TypeScript" title="TypeScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="JavaScript" title="JavaScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Go" title="Go" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="HTML5" title="HTML5" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="TailwindCSS" title="TailwindCSS" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Python" title="Python" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="React" title="React" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Next.js" title="Next.js" width="42px" src="https://github.com/eruigu/eruigu/blob/main/nextjs-icon-svgrepo-com.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Node.js" title="Node.js" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Vim" title="Vim" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Git" title="Git" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Linux" title="Linux" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="AWS" title="AWS" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Docker" title="Docker" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</p>
 
 ---
 # Github Stats 📊
