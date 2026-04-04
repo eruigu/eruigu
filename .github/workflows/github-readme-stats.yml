@@ -1,4 +1,4 @@
-name: Generate Stats Card
+name: Generate Top Lang Card
 
 on:
   schedule:
