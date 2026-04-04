@@ -1,4 +1,4 @@
-name: Update GitHub README Stats
+name: Generate Stats Card
 
 on:
   schedule:
@@ -16,23 +16,15 @@ jobs:
       - name: Checkout profile repo
         uses: actions/checkout@v4
 
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=eruigu&show_icons=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=eruigu&layout=compact
+          options: username=eruigu&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit updated cards
+      - name: Commit top languages card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
