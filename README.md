@@ -6,11 +6,11 @@
 
 ---
 # About Me 😎
-I'm a full-stack engineer with a passion for creating quality software to solve problems and generally just for fun. We live in a time where tech is expanding in every direction exponentially and it's exciting! Well, until chatGPT reaches AGI and erases all humans (see Terminator or iRobot 😵). 
+I'm a senior full stack engineer with a passion for creating quality software to solve problems and generally just for fun. We live in a time, where tech is expanding in every direction exponentially and it's exciting! Well, that is until LLMs reach AGI and erases all humans (see Terminator or iRobot 😵) jk. 
 
-I've had a passion for software from a young age; Whether it was rooting Andriods to customize the os, to being the token "IT Specialist" for all my family tech needs (mostly wifi configs || random devices). 
+I've had a passion for software from a young age; Whether it was rooting Andriods to customize the os, to being the token "IT Specialist" for all of my families tech needs (mostly wifi configs || random devices). 
 
-I really grasped the possibilities of software during my time in college, okstate (Go Pokes!), where I had the opportunity to learn and work with great people. In this great sea of tech, I'm thrilled to be able to learn/build impactful software. I thrive in novel, challenging, and innovative areas. If you have any cool projects or opportunities please reach out and let's build something great together!
+I really grasped the possibilities of software during my time in college, okstate (Go Pokes!), where I had the opportunity to learn and work with great people. In this giant sea of tech, I'm thrilled to be able to learn and build impactful software. I thrive in novel, challenging, and innovative areas. If you have any cool projects or opportunities please reach out and let's build something great together!
 
 
 <p>
@@ -21,6 +21,7 @@ I really grasped the possibilities of software during my time in college, okstat
 
 ---
 # Languages and Tools 🧰
+<div align="center">
 <div title="TypeScript">
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
 />
@@ -88,14 +89,15 @@ I really grasped the possibilities of software during my time in college, okstat
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" 
 />
 </div>
+</div>
 
 <br />
 
 ---
 # Github Stats 📊
 <p align="center">
-    ![GitHub Stats](./profile/stats.svg)
-    ![Top Languages](./profile/top-langs.svg)
+    <img width="75%" src="./profile/top-langs.svg" />
 </p>
+
 
 
