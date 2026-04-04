@@ -94,7 +94,8 @@ I really grasped the possibilities of software during my time in college, okstat
 ---
 # Github Stats 📊
 <p align="center">
-    <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eruigu&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact" />
+    ![GitHub Stats](./profile/stats.svg)
+    ![Top Languages](./profile/top-langs.svg)
 </p>
 
 
