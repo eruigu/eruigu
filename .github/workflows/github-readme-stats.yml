@@ -20,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=eruigu&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true
+          options: username=eruigu&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
